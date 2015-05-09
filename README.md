@@ -1,2 +1,2 @@
 # OpenSafe
-Open Safe Game 123
+Open Safe Game
